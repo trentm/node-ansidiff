@@ -33,10 +33,3 @@ In my terminal that looks like this:
 
 MIT.
 
-
-var ansidiff = require('ansidiff');
-var log = console.log;
-log( ansidiff.chars('will work for food', 'will code for foo') );
-log( ansidiff.words('will work for food', 'will code for foo') );
-log( ansidiff.lines('one\ntwo\nthree', 'one\ndeux\ntrois\nthree') );
-log( ansidiff.css('#body { color: blue }', '.content { color: blue }') );
