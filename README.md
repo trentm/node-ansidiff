@@ -15,7 +15,7 @@ one if you wish:
 
     log( ansidiff.words('will work for food', 'will code for foo', ansidiff.subtle) );
 
-![ansi color diffs]()
+![ansi color diffs](https://github.com/trentm/node-ansidiff/raw/master/examples.png)
 
 
 # Install
