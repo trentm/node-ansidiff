@@ -2,6 +2,7 @@
   "name": "ansidiff",
   "version": "1.0.1",
   "description": "ANSI colored text diffs",
+  "author": "Trent Mick <trentm@gmail.com> (http://trentm.com)",
   "main": "./lib/ansidiff.js",
 
   "repository": {
