@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/trentm/node-ansidiff.png)](http://travis-ci.org/trentm/node-ansidiff)
 ansidiff -- a small node.js library for ANSI colored text diffs
 
 
