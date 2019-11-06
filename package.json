@@ -13,7 +13,7 @@
   "keywords": ["diff", "ansi", "color", "colour", "console"],
   
   "dependencies": {
-    "diff": "1.0"
+    "diff": "4.0"
   },
   "devDependencies": {
     "tap": "0.2"
